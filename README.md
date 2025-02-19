@@ -12,7 +12,8 @@
 ---
 
 ### 🧐 **About Me**  
-- 🎓 **ALX Software Engineering Graduate**  
+- 🎓 **ALX Software Engineering Graduate**
+- 🎓 3rd-year **Information Systems** student at **Addis Ababa University**
 - 💻 Passionate **Frontend Developer** skilled in **React.js, Tailwind CSS, and JavaScript**  
 - 🤖 Exploring **Artificial Intelligence** & its applications in web development  
 - 🎨 Focused on **building modern, interactive, and scalable** web applications  
@@ -20,23 +21,24 @@
 
 ---
 
-### 🚀 Tech Stack  
+## 🔧 Tech Stack
+### **💻 Programming Languages**
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="80"></a> </p>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,react,tailwind,flask,firebase,mysql,git,github,linux" alt="Tech Stack"></a>
-</p>
+### **🌐 Frontend Development**
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="80"></a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=JavaScript+%7C+Java+%7C+C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+TailwindCSS+%7C+Flask+%7C+Firebase+%7C+MySQL+%7C+GitHub+%7C+Linux" alt="Tech Stack Animation">
-</p>
+### **🖥️ Backend & Database**
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql,mssql" height="80"></a> </p>
+
+### **🛠 Other Tools & Technologies**
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,unix" height="80"></a> </p>
 
 
 ---
 
 ### 🏆 **Achievements**  
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
-🚀 **Built & Deployed a Shoes E-Commerce Website** using React.js & Firebase  
-🔥 **Active GitHub Contributor** – Maintained streaks and contributed to open source  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
 🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
 🤖 **Exploring AI** – Learning and applying AI concepts in web development  
@@ -46,8 +48,8 @@
 ### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlazerGebrekidan&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlazerGebrekidan&show_icons=true&theme=dark&hide_border=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180">
 </p>
 
 ---
@@ -55,7 +57,7 @@
 ### 🔥 **Top Languages**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlazerGebrekidan&layout=compact&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark" height="180">
 </p>
 
 ---
