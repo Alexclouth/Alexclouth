@@ -28,20 +28,15 @@
 <p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="80"></a> </p>
 
 ### **🖥️ Backend & Database**
-<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql,mssql" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql" height="80"></a> </p>
 
 ### **🛠 Other Tools & Technologies**
-<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,unix" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,bash" height="80"></a> </p>
 
 
 ---
  
 ## 🏆 **Achievements**  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Simple_golden_trophy.svg/120px-Simple_golden_trophy.svg.png" width="100px" alt="Trophy">
-</p>
-
-
 
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
@@ -53,8 +48,17 @@
 ### 📊 **GitHub Stats**  
 
 <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180" style="animation: pulse 2s infinite;"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180" style="animation: pulse 2s infinite;"></a>
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+</style>
 
 ---
 
@@ -68,7 +72,7 @@
 
 ### 📫 **Connect With Me**  
 
-<p align="center"> <a href="https://lazaruus.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=web" height="60" alt="Portfolio" title="Visit My Portfolio"> </a> &nbsp;&nbsp; <a href="mailto:alazeralphilo@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" title="Send Me an Email"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alazergebrekidan" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" title="Connect on LinkedIn"> </a> &nbsp;&nbsp; <a href="https://github.com/AlazerGebrekidan" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="Check out my GitHub"> </a> </p>
+<p align="center"> <a href="https://lazaruus.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=web" height="60" alt="Portfolio" title="Visit My Portfolio"> </a> &nbsp;&nbsp; <a href="mailto:alazeralphilo@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" title="Send Me an Email"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alazergebrekidan" target="_blank"> <img src="https://www.linkedin.com/in/alazerwithlink/" height="60" alt="LinkedIn" title="Connect on LinkedIn"> </a> &nbsp;&nbsp; <a href="https://github.com/Alexclouth" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="Check out my GitHub"> </a> </p>
 
 
 ---
