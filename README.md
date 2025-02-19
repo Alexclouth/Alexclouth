@@ -49,7 +49,7 @@
 
 
 <p align="center" width="100%">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180" width="auto"></a> <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark" height="180" width="auto">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="150"></a> <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark" height="150">
 </p>
 
 
