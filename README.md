@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Alazer Gebrekidan! 👋</h1>
 
 <p align="center">
-🚀 Frontend Developer | Information Systems Student | Open Source Enthusiast
+🚀 Frontend Developer | Information Systems Student | ALX SE Graduate
 </p>
 
 ---
 
 ## 🌟 About Me
-🎓 3rd-year Information Systems student at Addis Ababa University  
-💻 Frontend Developer specializing in **React.js, Tailwind CSS, and JavaScript**  
+🎓 3rd-year **Information Systems** student at **Addis Ababa University**
+💻 Frontend Developer specializing in **React.js, Tailwind CSS, and JavaScript**
+🤖 Exploring **Artificial Intelligence** and its applications in web development    
 🎨 Passionate about building interactive, scalable, and modern web applications  
 🌍 Open to collaborations, freelance projects, and open-source contributions  
 
@@ -52,6 +53,15 @@
 - 🏗 Built a modern UI with **React.js and Tailwind CSS**
 - 🔐 Implemented **Firebase authentication and database storage**
 - 📱 Optimized for **performance and mobile responsiveness**
+
+---
+
+## 🏆 Achievements  
+🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
+💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
+🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
+🤖 **Exploring AI** – Learning and applying AI concepts in web development  
+
 
 ---
 
