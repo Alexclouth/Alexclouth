@@ -44,10 +44,9 @@
 🤖 **Exploring AI** – Learning and applying AI concepts in web development  
 
 ---
+  
 
-### 📊 **GitHub Stats**  
-
-<p align="center" width="100%">
+<p align="left" width="100%">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=🔥+My+GitHub+Stats+🔥" alt="Typing SVG"></a>
 </p>
 
@@ -57,12 +56,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180" 
-    style="transition: transform 0.5s, filter 0.5s; filter: brightness(80%);" 
-    onmouseover="this.style.transform='scale(1.1) rotate(3deg)'; this.style.filter='brightness(100%)';"
-    onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='brightness(80%)';">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180">
   </a>
+  <br>
+  <img src="https://media.giphy.com/media/l3vR5BRoyI0p0Cw6w/giphy.gif" height="40">
 </p>
+
 
 
 
@@ -78,7 +77,7 @@
 
 ### 📫 **Connect With Me**  
 
-<p align="center"> <a href="https://lazaruus.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=web" height="60" alt="Portfolio" title="Visit My Portfolio"> </a> &nbsp;&nbsp; <a href="mailto:alazeralphilo@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" title="Send Me an Email"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alazergebrekidan" target="_blank"> <img src="https://www.linkedin.com/in/alazerwithlink/" height="60" alt="LinkedIn" title="Connect on LinkedIn"> </a> &nbsp;&nbsp; <a href="https://github.com/Alexclouth" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="Check out my GitHub"> </a> </p>
+<p align="center"> <a href="https://lazaruus.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=web" height="60" alt="Portfolio" title="Visit My Portfolio"> </a> &nbsp;&nbsp; <a href="mailto:alazeralphilo@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" title="Send Me an Email"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alazerwithlink/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" title="Connect on LinkedIn"> </a> &nbsp;&nbsp; <a href="https://github.com/Alexclouth" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="Check out my GitHub"> </a> </p>
 
 
 ---
