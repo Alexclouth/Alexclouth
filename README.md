@@ -12,7 +12,6 @@
 ---
 
 ### 🧐 **About Me**  
-- 🎓 **ALX Software Engineering Graduate**
 - 🎓 3rd-year **Information Systems** student at **Addis Ababa University**
 - 💻 Passionate **Frontend Developer** skilled in **React.js, Tailwind CSS, and JavaScript**  
 - 🤖 Exploring **Artificial Intelligence** & its applications in web development  
@@ -36,11 +35,12 @@
 
 
 ---
-
+ 
 ## 🏆 **Achievements**  
 <p align="center">
-  <img src="https://media.giphy.com/media/l3nWqjYv7hZ3wuRGo/giphy.gif" width="100px" alt="Trophy GIF">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Simple_golden_trophy.svg/120px-Simple_golden_trophy.svg.png" width="100px" alt="Trophy">
 </p>
+
 
 
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
@@ -52,8 +52,8 @@
 
 ### 📊 **GitHub Stats**  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180">
+<p align="center" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180">
 </p>
 
@@ -61,8 +61,8 @@
 
 ### 🔥 **Top Languages**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark" height="180">
+<p align="center"m width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark" height="180"  width="100%">
 </p>
 
 ---
