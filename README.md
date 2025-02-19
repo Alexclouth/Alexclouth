@@ -23,21 +23,26 @@
 
 ## 🔧 Tech Stack
 ### **💻 Programming Languages**
-<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="80"></a> </p>
 
 ### **🌐 Frontend Development**
-<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="80"></a> </p>
 
 ### **🖥️ Backend & Database**
-<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql,mssql" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql,mssql" height="80"></a> </p>
 
 ### **🛠 Other Tools & Technologies**
-<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,unix" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,unix" height="80"></a> </p>
 
 
 ---
 
-<p align="left"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="80px" alt="Trophy" title="Achievements" style="animation: bounce 2s infinite;"> Achievements </p> 
+## 🏆 **Achievements**  
+<p align="center">
+  <img src="https://media.giphy.com/media/l3nWqjYv7hZ3wuRGo/giphy.gif" width="100px" alt="Trophy GIF">
+</p>
+
+
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
 🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
