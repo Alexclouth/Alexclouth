@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alazer Gebrekidan</h1>
-<h3 align="center">🚀 ALX SE Graduate | Frontend Developer | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=%E2%9A%A1+ALX+SE+Graduate;💻+Frontend+Developer;🤖+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif?cid=ecf05e47gein83ygcfapjlfd66cttexgdgrc9349t1tho7lv&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="100">
