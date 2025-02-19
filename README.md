@@ -20,8 +20,16 @@
 
 ---
 
-### 🚀 **Tech Stack**  
-<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,react,tailwind,flask,firebase,mysql,git,github,linux" alt="Tech Stack" style="width: 100%;"></a> </p>
+### 🚀 Tech Stack  
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,react,tailwind,flask,firebase,mysql,git,github,linux" alt="Tech Stack"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=JavaScript+%7C+Java+%7C+C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+TailwindCSS+%7C+Flask+%7C+Firebase+%7C+MySQL+%7C+GitHub+%7C+Linux" alt="Tech Stack Animation">
+</p>
+
 
 ---
 
