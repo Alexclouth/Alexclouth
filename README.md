@@ -1,85 +1,75 @@
-<h1 align="center">Hi there, I'm Alazer Gebrekidan! 👋</h1>
+<h1 align="center">Hi 👋, I'm Alazer Gebrekidan</h1>
+<h3 align="center">🚀 ALX SE Graduate | Frontend Developer | AI Enthusiast</h3>
 
 <p align="center">
-🚀 Frontend Developer | Information Systems Student | ALX SE Graduate
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
 </p>
 
 ---
 
-## 🌟 About Me
-🎓 3rd-year **Information Systems** student at **Addis Ababa University**
-💻 Frontend Developer specializing in **React.js, Tailwind CSS, and JavaScript**
-🤖 Exploring **Artificial Intelligence** and its applications in web development    
-🎨 Passionate about building interactive, scalable, and modern web applications  
-🌍 Open to collaborations, freelance projects, and open-source contributions  
+### 🧐 **About Me**  
+- 🎓 **ALX Software Engineering Graduate**  
+- 💻 Passionate **Frontend Developer** skilled in **React.js, Tailwind CSS, and JavaScript**  
+- 🤖 Exploring **Artificial Intelligence** & its applications in web development  
+- 🎨 Focused on **building modern, interactive, and scalable** web applications  
+- 🌍 Open to **collaborations, freelance projects, and open-source contributions**  
 
 ---
 
-## 🔧 Tech Stack
-### **💻 Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-### **🌐 Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **🖥️ Backend & Database**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### **🧠 Computer Science Concepts**
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-00599C?style=for-the-badge&logo=oop&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0088CC?style=for-the-badge&logo=algorithms&logoColor=white)
-
-### **🛠 Other Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unix & Shell Scripting](https://img.shields.io/badge/Unix%20&%20Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🚀 **Tech Stack**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-## 🛠 Projects
-### 📌 [Shoes E-Commerce Website](https://github.com/Alexclouth/Shoes-e-commerce)
-- 🏗 Built a modern UI with **React.js and Tailwind CSS**
-- 🔐 Implemented **Firebase authentication and database storage**
-- 📱 Optimized for **performance and mobile responsiveness**
-
----
-
-## 🏆 Achievements  
+### 🏆 **Achievements**  
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
+🚀 **Built & Deployed a Shoes E-Commerce Website** using React.js & Firebase  
+🔥 **Active GitHub Contributor** – Maintained streaks and contributed to open source  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
 🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
 🤖 **Exploring AI** – Learning and applying AI concepts in web development  
 
-
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="150">
-</p>
+### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlazerGebrekidan&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlazerGebrekidan&show_icons=true&theme=dark&hide_border=true" height="180">
 </p>
 
 ---
 
-## 📬 Contact Me
-📧 Email: [alazeralphilo@gmail.com](mailto:alazeralphilo@gmail.com)  
-🌍 Portfolio: [lazaruus.netlify.app](https://lazaruus.netlify.app/)  
-📍 Addis Ababa, Ethiopia  
+### 🔥 **Top Languages**  
 
-🚀 Let's connect and build something amazing together!  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlazerGebrekidan&layout=compact&theme=dark" height="180">
+</p>
+
+---
+
+### 📫 **Connect With Me**  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://lazaruus.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alazeralphilo@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alazergebrekidan)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlazerGebrekidan)  
+
+---
+
+### 🎵 **Mood While Coding** 🎧  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+🚀 **Let's build something amazing together!** 😃🎨💻  
