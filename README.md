@@ -22,10 +22,10 @@
 
 ## 🔧 Tech Stack
 ### **💻 Programming Languages**
-<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" height="80"></a> </p>
 
 ### **🌐 Frontend Development**
-<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="80"></a> </p>
+<p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="80"></a> </p>
 
 ### **🖥️ Backend & Database**
 <p align="right"> <a href="#"><img src="https://skillicons.dev/icons?i=flask,firebase,mysql" height="80"></a> </p>
