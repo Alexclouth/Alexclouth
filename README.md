@@ -37,7 +37,13 @@
 
 ---
 
-### 🏆 **Achievements**  
+<p align="center"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="80px" alt="Trophy" title="Achievements" style="animation: bounce 2s infinite;"> Achievements </p>
+🎯 Major Milestones
+✔️ Graduated from ALX SE Program 🏅
+✔️ Built Afri-Arts, an AI-powered Art Gallery Showcase 🎨
+✔️ Successfully deployed a full-stack E-commerce website 👟
+✔️ Contributor to Open Source Projects 🌍
+✔️ Mastered Data Structures & Algorithms 🔥 
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
 🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
@@ -64,15 +70,8 @@
 
 ### 📫 **Connect With Me**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://lazaruus.netlify.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alazeralphilo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alazergebrekidan)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlazerGebrekidan)  
+<p align="center"> <a href="https://lazaruus.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=web" height="60" alt="Portfolio" title="Visit My Portfolio"> </a> &nbsp;&nbsp; <a href="mailto:alazeralphilo@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" title="Send Me an Email"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alazergebrekidan" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" title="Connect on LinkedIn"> </a> &nbsp;&nbsp; <a href="https://github.com/AlazerGebrekidan" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="Check out my GitHub"> </a> </p>
 
----
-
-### 🎵 **Mood While Coding** 🎧  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
