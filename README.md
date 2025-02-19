@@ -53,7 +53,6 @@
 ### 📊 **GitHub Stats**  
 
 <p align="center" width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180">
 </p>
 
@@ -61,7 +60,7 @@
 
 ### 🔥 **Top Languages**  
 
-<p align="center"m width="100%">
+<p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark" height="180"  width="100%">
 </p>
 
