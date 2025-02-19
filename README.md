@@ -38,12 +38,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlazerGebrekidan&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlazerGebrekidan&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlazerGebrekidan&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexclouth&layout=compact&theme=dark">
 </p>
 
 ---
