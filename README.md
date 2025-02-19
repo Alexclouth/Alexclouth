@@ -51,14 +51,15 @@
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180" style="animation: pulse 2s infinite;"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180" style="animation: pulse 2s infinite;"></a>
 </p>
+<p align="center" width="100%">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=🔥+My+GitHub+Stats+🔥" alt="Typing SVG"></a>
+</p>
 
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.05); opacity: 1; }
-  100% { transform: scale(1); opacity: 0.8; }
-}
-</style>
+<p align="center" width="100%">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexclouth&theme=dark" height="180"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alexclouth&show_icons=true&theme=dark&hide_border=true" height="180"></a>
+</p>
+
 
 ---
 
