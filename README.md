@@ -37,13 +37,7 @@
 
 ---
 
-<p align="center"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="80px" alt="Trophy" title="Achievements" style="animation: bounce 2s infinite;"> Achievements </p>
-🎯 Major Milestones
-✔️ Graduated from ALX SE Program 🏅
-✔️ Built Afri-Arts, an AI-powered Art Gallery Showcase 🎨
-✔️ Successfully deployed a full-stack E-commerce website 👟
-✔️ Contributor to Open Source Projects 🌍
-✔️ Mastered Data Structures & Algorithms 🔥 
+<p align="left"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="80px" alt="Trophy" title="Achievements" style="animation: bounce 2s infinite;"> Achievements </p> 
 🎓 **ALX Software Engineering Graduate** – Specialized in Frontend Development  
 💡 **Completed Real-World Projects** – Gained hands-on experience in full-stack development  
 🏅 **Mastered Data Structures & Algorithms** – Strong problem-solving skills  
