@@ -2,7 +2,7 @@
 <h3 align="center">🚀 ALX SE Graduate | Frontend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=790b7611cpjje148cput1gbghp76qqvzz8vm7cs1gxd4wccz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkyNDU2cnZkaWw2ajVkZWkxNW5wdHV4a2ttYXM2dWwyN2l1cWM2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" width="100%" height="100">
 </p>
 
 ---
