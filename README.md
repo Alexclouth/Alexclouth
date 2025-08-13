@@ -12,7 +12,7 @@
 ---
 
 ### 🧐 **About Me**  
-- 🎓 3rd-year **Information Systems** student at **Addis Ababa University**
+- 🎓 4th-year **Information Systems** student at **Addis Ababa University**
 - 💻 Passionate **Frontend Developer** skilled in **React.js, Tailwind CSS, and JavaScript**  
 - 🤖 Exploring **Artificial Intelligence** & its applications in web development  
 - 🎨 Focused on **building modern, interactive, and scalable** web applications  
